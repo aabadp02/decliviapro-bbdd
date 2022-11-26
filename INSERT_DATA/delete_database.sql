@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS `declivia`;
+
+CREATE DATABASE `declivia`;
